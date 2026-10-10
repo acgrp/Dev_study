@@ -1,8 +1,5 @@
 package hello.servlet.web.frontcontroller;
 
-import lombok.Getter;
-import lombok.Setter;
-
 import java.util.HashMap;
 import java.util.Map;
 
